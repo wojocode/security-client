@@ -12,4 +12,5 @@ public class UserWithRolesDto {
     private String name;
     private String password;
     private List<String> roles;
+
 }
